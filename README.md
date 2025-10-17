@@ -1,1 +1,1 @@
-This line was updated both locally and remotely.
+This line was added locally.
